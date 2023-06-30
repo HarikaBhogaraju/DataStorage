@@ -1,0 +1,14 @@
+{"_id":{"$oid":"62224f93eb9527423ae1a2bc"},"user":"adres","score":28}
+{"_id":{"$oid":"62224fddeb9527423ae1a2bd"},"user":"adres1"}
+{"_id":{"$oid":"62224ff2eb9527423ae1a2be"},"user":"hbhogara","score":30}
+{"_id":{"$oid":"62224ffbeb9527423ae1a2bf"},"user":"ibarwey","score":29}
+{"_id":{"$oid":"6222501aeb9527423ae1a2c1"},"user":"ryasmin1"}
+{"_id":{"$oid":"62225037eb9527423ae1a2c2"},"user":"jgrassel","score":26,"key2pay":"390lbi","surveyResults":{"age":"nah bro"}}
+{"_id":{"$oid":"6222503beb9527423ae1a2c3"},"user":"jgrassel1"}
+{"_id":{"$oid":"6222504beb9527423ae1a2c4"},"user":"ofuentes"}
+{"_id":{"$oid":"6222504feb9527423ae1a2c5"},"user":"ofuentes1"}
+{"_id":{"$oid":"6222505deb9527423ae1a2c6"},"user":"mhassan","score":30,"key2pay":"470tp","surveyResults":{"age":"30","gender":"Male","education":"Doctoral","major":"CS","employed":"No","job":"RA","nativeSpeaker":"No","nativeLanguage":"Bangla","stayInUS":"Greater than 5 years","estimation":"No"}}
+{"_id":{"$oid":"6222505feb9527423ae1a2c7"},"user":"mhassan1"}
+{"_id":{"$oid":"6222508feb9527423ae1a2c8"},"user":"sdey2"}
+{"_id":{"$oid":"62225093eb9527423ae1a2c9"},"user":"sdey21"}
+{"_id":{"$oid":"62337b6f358ea6f3865f508c"},"user":"ryasmin","score":28}

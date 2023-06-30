@@ -1,0 +1,7 @@
+{"_id":{"$oid":"62588a5fae638909c104d3af"},"user":"ARE","key2pay":null,"surveyResults":null,"score":22}
+{"_id":{"$oid":"625eb727e0df793a05884fa4"},"user":"mhassan76","key2pay":"9o1tq","surveyResults":{"age":"33","gender":"Male","education":"Doctoral","major":"CS","employed":"Yes","job":"RA","nativeSpeaker":"No","nativeLanguage":"Bangla","stayInUS":"Greater than 5 years","estimation":"No"},"score":27}
+{"_id":{"$oid":"625efd8ce0df793a05884fc3"},"user":"jgrassel","key2pay":"jzrp7i","surveyResults":{"age":"nah bruh"},"score":25}
+{"_id":{"$oid":"62619bbce0df793a05884fe2"},"user":"ARE1","key2pay":null,"surveyResults":null,"score":26}
+{"_id":{"$oid":"6261a00ee0df793a05885004"},"user":"mhassan1012","key2pay":"p6bju9","surveyResults":{"age":"26","gender":"Male","education":"Master's","major":"Computational Science","employed":"No","nativeSpeaker":"No","nativeLanguage":"Spanish","stayInUS":"Greater than 5 years","estimation":"No"},"score":25}
+{"_id":{"$oid":"6261b47ee0df793a05885023"},"user":"ibarwey","key2pay":null,"surveyResults":null,"score":27}
+{"_id":{"$oid":"6274079de0df793a05885064"},"user":"hbhogara","key2pay":"8m3j9","surveyResults":{},"score":27}
